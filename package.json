@@ -4,6 +4,6 @@
   "version": "0.0.1",
   "renovate": {},
   "dependencies": {
-    "@types/jquery": "3.2.11"
+    "@types/jquery": "3.2.12"
   }
 }
