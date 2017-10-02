@@ -1,0 +1,9 @@
+{
+  "name": "branchnames",
+  "private": true,
+  "version": "0.0.1",
+  "renovate": {},
+  "dependencies": {
+    "@types/jquery": "3.2.11"
+  }
+}
